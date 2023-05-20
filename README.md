@@ -1,4 +1,4 @@
-### Introduction 👋
+## Introduction 👋
 
 도전하는 것을 멈추지 않는 개발자가 되고 싶습니다.현재 AI와 REACT.js에 관심이 많은 편입니다. 이와 관련되어서 블로그를 쓰면서 제가 공부하고 경험하는 것을 틈틈히 기록하고 있습니다. 앞으로도 끊임없이 배우는 것을 멈추지 않고 도전하는 개발자로 거듭날 계획입니다.😎
 
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 
 
-### Available Skills 👀
+## Available Skills 👀
 <div>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
 </div>
 
-### Tools 🛠️
+## Tools 🛠️
 <div>
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=Visual Studio&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>

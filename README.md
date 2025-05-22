@@ -1,6 +1,6 @@
 ## Introduction 👋
 
-도전하는 것을 멈추지 않는 개발자가 되고 싶습니다.현재 NLP(Natural Language Processing)에 관심이 많은 편입니다. 이와 관련되어서 블로그를 쓰면서 제가 공부하고 경험하는 것을 틈틈히 기록하고 있습니다. 앞으로도 끊임없이 배우는 것을 멈추지 않고 도전하는 개발자로 거듭날 계획입니다.😎
+도전하는 것을 멈추지 않는 AI 엔지니어가 되고자 합니다. 블로그를 쓰면서 제가 공부하고 경험하는 것을 틈틈히 기록하고 있습니다. 앞으로도 제 안에 한계를 두지않고 끊임없이 배우는 것을 멈추지 않고 도전하고자 합니다.😎
 
 <!--
 **heeyeonkoo99/heeyeonkoo99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
